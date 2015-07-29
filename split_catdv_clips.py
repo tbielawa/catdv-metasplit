@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 ######################################################################
-# Written by Tim Bielawa <timbielawa@gmail.com>
-#
 # The MIT License (MIT)
 #
 # Copyright © 2015 Tim Bielawa <timbielawa@gmail.com>
 # See GitHub Contributors Graph for more information
+# https://github.com/tbielawa/catdv-metasplit
 #
 # Permission is hereby granted, free of charge, to any person
 # obtaining a copy of this software and associated documentation files
